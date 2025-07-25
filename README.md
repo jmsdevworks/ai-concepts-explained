@@ -46,9 +46,9 @@ A high-level comparison of key AI components: embeddings, large language models 
 | Semantic Search           | ✅            | ❌      | ❌             |
 | Text Summarization        | ❌            | ✅      | ✅             |
 | Q&A Over Knowledge Base   | ✅ + LLM (RAG) | ✅      | ✅             |
-| Chatbot or Assistant      | ❌            | ✅      | ✅✅            |
+| Chatbot or Assistant      | ❌            | ✅      | ✅           |
 | Code Explanation          | ❌            | ✅      | ✅             |
-| Conversation Memory       | ❌            | ❌      | ✅✅            |
+| Conversation Memory       | ❌            | ❌      | ✅            |
 
 ---
 
